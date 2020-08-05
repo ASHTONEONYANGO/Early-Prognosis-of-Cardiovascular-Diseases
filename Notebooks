@@ -1,1 +1,4 @@
-
+heart_df = pd.read_csv(r"C:/Users/Ashe/Python Projects/Cardiovascular Diseases Prognosis/Framingham.csv")
+# dropping the attribute education - not much sense as a risk factor.
+heart_df.drop(['education'],axis=1,inplace=True)
+heart_df.head()
