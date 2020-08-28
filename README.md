@@ -1,2 +1,1 @@
-# Early-Prognosis-of-Cardiovascular-Diseases
-Heart Disease Prediction The early prognosis of Cardiovascular Diseases can aid in making decisions on lifestyle changes in high risk patients, and in turn go a long way into reducing complications and saving lives.  This project intends to pinpoint the most relevant/risk factors of heart diseases as well as predict the overall risk using logistic regression and other allied ML technique.
+
